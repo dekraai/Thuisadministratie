@@ -1,0 +1,15 @@
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\bin\Debug\Thuisadministratie.exe.config
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\bin\Debug\Thuisadministratie.exe
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\bin\Debug\Thuisadministratie.pdb
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.csprojResolveAssemblyReference.cache
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.Beginpagina.resources
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.Properties.Resources.resources
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.csproj.GenerateResource.Cache
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.exe
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.pdb
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.csproj.ResolveComReference.cache
+C:\Users\peterska\Source\Repos\Thuis Administratie\Thuisadministratie\Thuisadministratie\obj\Debug\Thuisadministratie.Post.resources
